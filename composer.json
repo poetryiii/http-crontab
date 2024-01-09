@@ -1,5 +1,5 @@
 {
-  "name": "yzh52521/http-crontab",
+  "name": "poetry/http-crontab",
   "description": "接口化秒级定时任务管理",
   "type": "library",
   "license": [
